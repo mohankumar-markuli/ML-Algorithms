@@ -1,59 +1,59 @@
 # ML-Algorithms
 
-Supervised Learning Algorithms
-	Linear Regression
-	Logistic Regression
-	Decision Tree
-	Random Forest
-	Support Vector Machines (SVM)
-	Naive Bayes
-	K-Nearest Neighbors(k-NN)
-	Gradient Boosting algorithms - Ensemble Methods
+<b> Supervised Learning Algorithms </b>  <br> <br>
+	Linear Regression <br>
+	Logistic Regression <br>
+	Decision Tree <br>
+	Random Forest <br>
+	Support Vector Machines (SVM) <br>
+	Naive Bayes <br>
+	K-Nearest Neighbors(k-NN) <br>
+	Gradient Boosting algorithms - Ensemble Methods <br>
 
-Unsupervised Learning Algorithms
-	K-means Clustering
-	Hierarchical Clustering
-	DBSCAN - Density-Based Clustering
-	Gaussian Mixture Models (GMM)
-	Principal Component Analysis (PCA)
-	t-Distributed Stochastic Neighbor Embedding(t-SNE)
+<b> Unsupervised Learning Algorithms </b> <br><br>
+	K-means Clustering <br>
+	Hierarchical Clustering <br>
+	DBSCAN - Density-Based Clustering <br>
+	Gaussian Mixture Models (GMM) <br>
+	Principal Component Analysis (PCA) <br>
+	t-Distributed Stochastic Neighbor Embedding(t-SNE) <br>
 
-Reinforcement Learning Algorithms
-	Q-Learning
-	Deep Q-Network (DQN)
-	Proximal Policy Optimization(PPO)
-	Actor-Critic Methods
+<b> Reinforcement Learning Algorithms</b><br><br>
+	Q-Learning <br>
+	Deep Q-Network (DQN) <br>
+	Proximal Policy Optimization(PPO) <br>
+	Actor-Critic Methods <br>
 
-Deep Learning Algorithms
-	Convolutional Neural Networks (CNN)
-	Recurrent Neural Networks (RNN)
-	Long Short-Term Memory(LSTM)
-	Generative Adversarial Networks(GAN)
-	Transformer Networks.
-	Autoencoders
+<b>Deep Learning Algorithms</b><br><br>
+	Convolutional Neural Networks (CNN) <br>
+	Recurrent Neural Networks (RNN) <br>
+	Long Short-Term Memory(LSTM) <br>
+	Generative Adversarial Networks(GAN) <br>
+	Transformer Networks. <br>
+	Autoencoders <br>
 
-Semi-Supervised Learning Algorithms
-	Expectation-Minimization(EM)
-	Self-Training
-	Co-Training
-	Label Propagation
-	Generative Models with Labeled and Unlabeled Data
+<b>Semi-Supervised Learning Algorithms</b><br><br>
+	Expectation-Minimization(EM) <br>
+	Self-Training <br>
+	Co-Training <br>
+	Label Propagation <br>
+	Generative Models with Labeled and Unlabeled Data <br>
 
-Ensemble Learning Algorithms
-	Bagging
-	Boosting
-	Stacking
-	Voteing Classifiers
+<b>Ensemble Learning Algorithms</b><br><br>
+	Bagging <br>
+	Boosting <br>
+	Stacking <br>
+	Voteing Classifiers <br>
 
-Dimensionality Reduction Algorithms
-	Principal Component Analysis(PCA)
-	Linear Discriminant Analysis(LDA)
-	t-Distributed Stochastic Neighbor Embedding(t-SNE)
-	Independent Component Analysis(ICA)
-	Variational Autoencoders(VAE)
+<b>Dimensionality Reduction Algorithms</b><br><br>
+	Principal Component Analysis(PCA) <br>
+	Linear Discriminant Analysis(LDA) <br>
+	t-Distributed Stochastic Neighbor Embedding(t-SNE) <br>
+	Independent Component Analysis(ICA) <br>
+	Variational Autoencoders(VAE) <br>
 
-Transfer Learning Algorithms
-	Pre-trained Deep Neural Networks
-	Fine tuning
-	Domain Adaptation
-	Multi-task Learning
+<b>Transfer Learning Algorithms</b><br><br>
+	Pre-trained Deep Neural Networks <br>
+	Fine tuning <br>
+	Domain Adaptation <br>
+	Multi-task Learning <br>
